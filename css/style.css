@@ -1,0 +1,31 @@
+body {
+  margin: 0 auto;
+  padding-top: 25px;
+  height: 100vh;
+  text-align: center;
+}
+
+.container {
+  margin: 0 auto;
+  width: 1240px;
+  background-color: bisque;
+  padding: 30px;
+  border-radius: 30px;
+}
+
+input {
+  width: 250px;
+  padding: 7px;
+  border-radius: 5px;
+  border: 2px solid rgb(106, 185, 231);
+  overlay: none;
+  font-size: 15px;
+}
+
+button {
+  padding: 9px 15px;
+  border-radius: 5px;
+  border: 2px solid rgb(106, 185, 231);
+}
+/* Site Malicious Rate
+0.0 */
